@@ -1,1 +1,2 @@
 First commit in Master Branch
+Second commit in Master Branch
